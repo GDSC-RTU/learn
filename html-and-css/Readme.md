@@ -401,4 +401,4 @@ Example
 }
 ```
 
-## Blog by [Anjali Kumawat](https://github.com/anjalikumawat2002). For any changes feel free to make a pull request.
+**Blog by [Anjali Kumawat](https://github.com/anjalikumawat2002). For any changes feel free to make a pull request.**
